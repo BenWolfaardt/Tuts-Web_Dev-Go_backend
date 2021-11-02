@@ -12,6 +12,7 @@ Naming convention of branches:
 * Before the `-` is the tutorial's website name;
 * After the `-` is the tutorial's name;
 
+// TODO: add numbers to branch names with the "01" formatting for up to 99 projects
 // TODO: explain the git orphan approach as well as refernce the source;  
 // TODO: do more tutorials;  
 // TODO: update individual tutorial's `README.md`;  
