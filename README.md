@@ -52,8 +52,8 @@ The following is an approach to implement **Monorepos** as found [here](https://
 
 7. Step 5. often needs to be repeated here
 
-  `rm .git/index`  
-  `rm -r *`
+     `rm .git/index`  
+     `rm -r *`
 
    > Ensure that you have a blank working directory when starting a new tutorial and that nothing is staged for `git`.  
 
