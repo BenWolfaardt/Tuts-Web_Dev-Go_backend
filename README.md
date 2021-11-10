@@ -7,8 +7,8 @@ As not to ocupy too many repositories with "tutorials" I've decided to group the
 # Tutorials Completed
 
 The branches, i.e. tutorials, that I have completed so far are as follows:  
-1. [go-writing_web_apps](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/00-go-writing_web_apps) - [source](https://golang.org/doc/articles/wiki/)
-2. [polygot-frontend_served_in_go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/01-polygot-frontend_served_in_go) - [source](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/)
+1. [go-writing_web_apps](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/01-go-writing_web_apps) - [source](https://golang.org/doc/articles/wiki/)
+2. [polygot-frontend_served_in_go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/02-polygot-frontend_served_in_go) - [source](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/)
 
 ---
 
