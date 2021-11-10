@@ -33,7 +33,11 @@ The following is an approach to implement **Monorepos** as found [here](https://
 
    > git commit -m "Tutorial x comleted"
 
-4. Cleanup local directory
+4. Push your code 
+
+   > git push --set-upstream origin <branch_name>
+
+5. Cleanup local directory
 
     `rm .git/index`  
     `rm -r *`
@@ -42,7 +46,7 @@ The following is an approach to implement **Monorepos** as found [here](https://
 
    > **IMPORTANT**: ensure that you commited before performing the previous task.
 
-5. Checkout a new branch to perform the next tutorial
+6. Checkout a new branch to perform the next tutorial
 
    > `git checkout --orphan <new_branch_name>`
 
