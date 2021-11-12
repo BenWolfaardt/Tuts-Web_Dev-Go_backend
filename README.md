@@ -18,7 +18,7 @@ The branches, i.e. tutorials, that I have completed so far are as follows:
 
 # `git checkout --orphan BRANCHNAME` 
 
-The following is an approach to implement **Monorepos** as found [here](https://stackoverflow.com/questions/14679614/is-there-a-way-to-put-multiple-projects-in-a-git-repository#14680329).
+The following is an approach to implement **monorepos** as found [here](https://stackoverflow.com/questions/14679614/is-there-a-way-to-put-multiple-projects-in-a-git-repository#14680329).
 
 > Please note that this isn't actually a "monorepo" rather, as stated above, I'm using it to have multile projects in the same repository.
 
