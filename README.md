@@ -1,6 +1,6 @@
 # Bundle HTML, CSS, And JavaScript To Be Served In A Golang Application
 
-Source: [Tutorial](https://golang.org/doc/articles/wiki/)
+Source: [Tutorial](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/)
 
 I wanted to do this tutorial so that I could learn how to host a website on a `Go` backend. Now I can use a template and host a basic website for myself! 
 
