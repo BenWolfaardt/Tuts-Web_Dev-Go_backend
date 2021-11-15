@@ -63,5 +63,6 @@ The following is an approach to implement **monorepos** as found [here](https://
    * // TODO: learn about hosting:
       * // TODO: [create a serverless Telegram bot using Go and Vercel](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb)
       * // TODO: [A simple whatsmyip API deployed as a Vercel serverless function](https://www.reddit.com/r/golang/comments/j07hrc/a_simple_whatsmyip_api_deployed_as_a_vercel/) with code [here](https://github.com/wafer-bw/whatsmyip)
+   * // TODO: [Serving Single-Page Apps From Go](https://hackandsla.sh/posts/2021-11-06-serve-spa-from-go/)
 * // TODO: update individual tutorial's `README.md`;  
 * // TODO: learn so that we can get a temporary template up and running for [benwolfaardt.com](benwolfaardt.com);  
