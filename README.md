@@ -57,6 +57,9 @@ The following is an approach to implement **monorepos** as found [here](https://
      `rm -r *`
 
    > Ensure that you have a blank working directory when starting a new tutorial and that nothing is staged for `git`.  
+   > Ensure that the `.git` file is still in the directory.  
+
+   > Follow on from Step 2
 
 # TODO
 
