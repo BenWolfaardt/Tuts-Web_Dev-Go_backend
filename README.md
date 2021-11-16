@@ -71,3 +71,4 @@ The following is an approach to implement **monorepos** as found [here](https://
    * // TODO: [Serving Single-Page Apps From Go](https://hackandsla.sh/posts/2021-11-06-serve-spa-from-go/)
 * // TODO: update individual tutorial's `README.md`;  
 * // TODO: learn so that we can get a temporary template up and running for [benwolfaardt.com](benwolfaardt.com);  
+* // TODO: add the "completed" field to the branch names as done here: https://github.com/BenWolfaardt/Tuts-Web_Dev-JS
