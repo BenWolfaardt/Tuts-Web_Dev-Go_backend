@@ -9,6 +9,7 @@ As not to ocupy too many repositories with "tutorials" I've decided to group the
 The branches, i.e. tutorials, that I have completed so far are as follows:  
 1. [go-writing_web_apps](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/01-go-writing_web_apps) - [source](https://golang.org/doc/articles/wiki/)
 2. [polygot-frontend_served_in_go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/02-polygot-frontend_served_in_go) - [source](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/)
+3. [dev-create_a_serverless_Telegram_bot_on_Vercel](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/03-dev-create_a_serverless_Telegram_bot_on_Vercel) - [source](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb)
 
 ---
 
