@@ -4,7 +4,7 @@ Source: [Tutorial](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-
 
 I wanted to do this tutorial so that I could learn how to host a website on a `Go` backend. Now I can use a template and host a basic website for myself! 
 
-> Check out: benwolfaardt.com
+> Check out: [benwolfaardt.com](https://BenWolfaardt.com)
 
 
 This tutorial made use of the following `modules`
