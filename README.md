@@ -6,6 +6,7 @@ I wanted to do this tutorial so that I could learn how to host a website on a `G
 
 > Check out: [benwolfaardt.com](https://BenWolfaardt.com)
 
+--- 
 
 This tutorial made use of the following `modules`
 * [GeertJohan/go.rice](https://github.com/GeertJohan/go.rice)
