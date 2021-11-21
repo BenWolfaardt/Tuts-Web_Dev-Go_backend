@@ -1,1 +1,6 @@
-Awe ma se kind
+Hello world, my name is Ben!
+
+The 3 handler functions for this site are:
+* /view/
+* /edit/
+* /save/
