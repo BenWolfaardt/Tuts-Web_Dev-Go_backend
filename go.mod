@@ -1,4 +1,4 @@
-module github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/02-polygot-frontend_served_in_go
+module github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/02-Polygot-Frontend_served_in_Go
 
 go 1.17
 

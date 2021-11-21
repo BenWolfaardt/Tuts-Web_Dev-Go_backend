@@ -15,9 +15,8 @@ This tutorial made use of the following `modules`
 
 # Run The Code
 
-Run the below commands to host the website on your `Go` backend on http://localhost:8080/
+Run the below commands to correctly configure your `go.mod` and `go.sun` files and run the frontend of your website on your `Go` backend at http://localhost:8080/
 
-```go
-    go build
-    ./02-polygot-frontend_served_in_go 
+```sh
+  ./start.sh
 ```
