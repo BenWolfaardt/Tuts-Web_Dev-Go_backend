@@ -7,9 +7,9 @@ As not to ocupy too many repositories with "tutorials" I've decided to group the
 # Tutorials Completed
 
 The branches, i.e. tutorials, that I have completed so far are as follows:  
-1. [go-writing_web_apps](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/01-go-writing_web_apps) - [source](https://golang.org/doc/articles/wiki/)
-2. [polygot-frontend_served_in_go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/02-polygot-frontend_served_in_go) - [source](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/)
-3. [dev-create_a_serverless_Telegram_bot_on_Vercel](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/03-dev-create_a_serverless_Telegram_bot_on_Vercel) - [source](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb)
+1. [Go-Writing_web_apps](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/01-Go-Writing_web_apps) - [source](https://golang.org/doc/articles/wiki/) | completed: 10/11/2021
+2. [Polygot-Frontend_served_in_Go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/02-Polygot-Frontend_served_in_Go) - [source](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/) | completed: 10/11/2021
+3. [Dev.to-Create_a_serverless_Telegram_bot_on_Vercel](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/03-Dev.to-Create_a_serverlesss_Telegram_bot_on_Vercel) - [source](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb) | completed: 21/11/2021
 
 ---
 
@@ -69,6 +69,4 @@ The following is an approach to implement **monorepos** as found [here](https://
       * // TODO: [A simple whatsmyip API deployed as a Vercel serverless function](https://www.reddit.com/r/golang/comments/j07hrc/a_simple_whatsmyip_api_deployed_as_a_vercel/) with code [here](https://github.com/wafer-bw/whatsmyip)
       * // TODO: [DEPLOYING GO APPS WITH DOCKER TO ELASTIC BEANSTALK](https://www.topcoder.com/blog/deploying-go-apps-with-docker-to-elastic-beanstalk/)
    * // TODO: [Serving Single-Page Apps From Go](https://hackandsla.sh/posts/2021-11-06-serve-spa-from-go/)
-* // TODO: update individual tutorial's `README.md`;  
 * // TODO: learn so that we can get a temporary template up and running for [benwolfaardt.com](benwolfaardt.com);  
-* // TODO: add the "completed" field to the branch names as done here: https://github.com/BenWolfaardt/Tuts-Web_Dev-JS
