@@ -1,0 +1,9 @@
+# Executeable
+
+
+# Go system files
+go.mod
+go.sum
+
+# Vercel
+.vercel
