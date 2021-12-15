@@ -2,7 +2,7 @@
 
 Source: [Tutorial](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/)
 
-I wanted to do this tutorial so that I could learn how to host a website on a `Go` backend. Now I can apply this knowledge and use it to serve a basic frontend template on a `Go` backend for a place holder to my first itteration of my website;s temporary landing page! 
+I wanted to do this tutorial so that I could learn how to host a website on a `Go` backend. Now I can apply this knowledge and use it to serve a basic frontend template on a `Go` backend for a place holder to my first itteration of my website's temporary landing page! 
 
 > Check out: [benwolfaardt.com](https://BenWolfaardt.com)
 
