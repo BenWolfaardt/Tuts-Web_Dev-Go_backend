@@ -130,6 +130,8 @@ The static files are not compiled into the binary, so if you put the `helloworld
 
 ## Remember to rebuild Docker when editing the static files
 
+> The below was stipulated in the guide, but when testing this it didn't seem to be the case!
+
 The dockerized webserver should behave just like the `go run hello.go` and `./helloworld` versions except that it has its own copies of the static files. So, if you change any of the files in `views/` you won't see the changes until you rebuild the Docker image and restart the container.
 
 ## `heroku.yml` Overview
