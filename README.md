@@ -10,6 +10,7 @@ The branches, i.e. tutorials, that I have completed so far are as follows:
 1. [Go-Writing_web_apps](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/01-Go-Writing_web_apps) - [source](https://golang.org/doc/articles/wiki/) | completed: 10/11/2021
 2. [Polygot-Frontend_served_in_Go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/02-Polygot-Frontend_served_in_Go) - [source](https://www.thepolyglotdeveloper.com/2017/03/bundle-html-css-javascript-served-golang-application/) | completed: 10/11/2021
 3. [Dev.to-Create_a_serverless_Telegram_bot_on_Vercel](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/03-Dev.to-Create_a_serverlesss_Telegram_bot_on_Vercel) - [source](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb) | completed: 21/11/2021
+4. [DZone-Deploying_a_simple_Go_web_app_on_Heroku](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/04-DZone-Deploying_a_simple_Go_web_app_on_Heroku) - [source](https://dzone.com/articles/deploying-a-simple-golang-webapp-on-heroku) | completed: 15/12/2021
 
 ---
 
