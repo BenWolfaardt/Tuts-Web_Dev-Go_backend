@@ -25,13 +25,90 @@ As well as having had the below pre-requisites:
 * The [Heroku command-line client](https://devcenter.heroku.com/articles/heroku-cli)
 * [git](https://git-scm.com/)
 
-## Run The Code
+## Run The Code Locally
 
 Run the below commands to correctly configure your `go.mod` and `go.sum` files and to run the frontend, **locally**, of your website on your `Go` backend at http://localhost:8080/ (default port).
 
 ```sh
   ./start.sh
 ```
+
+## Run The Code on Heroku
+
+### [Creating a Heroku remote](https://devcenter.heroku.com/articles/git#creating-a-heroku-remote)
+
+#### `heroku create`
+
+The `heroku create` CLI command creates a new empty application on Heroku, along with an associated empty Git repository. If you run this command from your app’s root directory, the empty Heroku Git repository is automatically set as a remote for your local repository.
+
+```
+Creating app... done, ⬢ murmuring-hamlet-57084
+https://murmuring-hamlet-57084.herokuapp.com/ | https://git.heroku.com/murmuring-hamlet-57084.git
+```
+
+#### `heroku stack`
+
+Tell Heroku we want to build this project using a Dockerfile, rather than a buildpack: `heroku stack:set container`
+
+To do this, we also need to create a `heroku.yml` file like this:
+
+```yml
+build: 
+  docker:
+    web: Dockerfile
+
+run:
+  web: ./helloworld
+```
+
+#### `git remote -v`
+
+You can use the `git remote` command to confirm that a remote named heroku has been set for your app:
+
+```
+heroku  https://git.heroku.com/murmuring-hamlet-57084.git (fetch)
+heroku  https://git.heroku.com/murmuring-hamlet-57084.git (push)
+origin  git@github.com:BenWolfaardt/Tuts-Web_Dev-Go_backend.git (fetch)
+origin  git@github.com:BenWolfaardt/Tuts-Web_Dev-Go_backend.git (push)
+```
+
+##### For an existing Heroku app (if it already exists)
+
+If you have already created your Heroku app, you can easily add a remote to your local repository with the heroku git:remote command. All you need is your Heroku app’s name:
+
+`heroku git:remote -a murmuring-hamlet-57084`
+
+```
+set git remote heroku to https://git.heroku.com/murmuring-hamlet-57084.git
+```
+
+##### `git remote rename` (optional)
+
+By default, the Heroku CLI names all of the Heroku remotes it creates for your app heroku. You can rename your remotes with the `git remote rename` command:
+
+`git remote rename heroku heroku-staging`
+
+Renaming your Heroku remote can be handy if you have multiple Heroku apps that use the same codebase (for example, the staging and production versions of an app). In this case, each Heroku app has its own remote in your local repository.
+
+### Deploying code
+
+To deploy your app to Heroku, you typically use the `git push` command to push the code from your local repository’s master or main branch to your heroku remote, like so:
+
+`git push heroku main`
+
+However, in our case we aren't pushing from our main branch, therefore: 
+
+#### [Pushing a none "main" branch to Heroku](https://stackoverflow.com/questions/14593538/make-heroku-run-non-master-git-branch)
+
+You can push an alternative branch to Heroku using Git.
+
+`git push heroku 04-DZone-Deploying_a_simple_Go_web_app_on_Heroku:main`
+
+This pushes your local test branch to the remote's master branch (on Heroku).
+
+Worth noting also, when you're ready to go back to master you need to do
+
+`git push -f heroku main:main`
 
 # Interesting Information
 
