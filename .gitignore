@@ -2,5 +2,5 @@
 helloworld
 
 # Go system files
-go.mod
-go.sum
+# go.mod
+# go.sum
