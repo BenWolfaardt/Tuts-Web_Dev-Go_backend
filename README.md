@@ -2,9 +2,9 @@
 
 Source: [Tutorial](https://dev.to/jj/create-a-serverless-telegram-bot-using-go-and-vercel-4fdb)
 
-I wanted to do this tutorial so that I could learn how to host a serverless function on Vercel. The goal was to then host a static website so that I can finally launch a landing page to benwolfaardt.com but unfortunately, this tutorial didn't teach me the neceessary skills to do so as it doesn't seem possible to host a ~Go` binary on Vercel. 
+I wanted to do this tutorial so that I could learn how to host a serverless function on Vercel. The goal was to then host a static website so that I can finally launch a landing page to [benwolfaardt.com](http://benwolfaardt/com) but unfortunately, this tutorial didn't teach me the neceessary skills to do so as it doesn't seem possible to host a ~Go` binary on Vercel. 
 
-> Check out: benwolfaardt.com
+> Check out: [benwolfaardt.com](http://benwolfaardt/com)
 
 # [Going Serveless With Vercel](https://dev.to/sumitkolhe/going-serveless-with-vercel-5b4o)
 
