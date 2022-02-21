@@ -13,6 +13,7 @@ The branches, i.e. tutorials, that I have completed so far are as follows:
 4. [DZone-Deploying_a_simple_Go_web_app_on_Heroku](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/04-DZone-Deploying_a_simple_Go_web_app_on_Heroku) - [source](https://dzone.com/articles/deploying-a-simple-golang-webapp-on-heroku) | completed: 15/12/2021
 5. [Polygot-Create_a_simple_RESTful_API_with_Go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/05-Polygot-Create_a_simple_RESTful_API_with_Go) - [source](https://www.thepolyglotdeveloper.com/2016/07/create-a-simple-restful-api-with-golang/) | completed: 19/12/2021
 6. [Tutorials_Edge-Consuming_a_RESTful_API_with_Go](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/06-Tutorials_Edge-Consuming_a_RESTful_API_with_Go) - [source](https://tutorialedge.net/golang/consuming-restful-api-with-go/) | completed: 19/12/2021
+7. [Log_Rocket-How_to_build_a_REST_API_with_Go_using_Gin_and_Gorm](https://github.com/BenWolfaardt/Tuts-Web_Dev-Go_backend/tree/07-Log_Rocket-Build_a_REST_API_with_Go_using_Gin_and_GORM) - [source](https://blog.logrocket.com/how-to-build-a-rest-api-with-golang-using-gin-and-gorm/) | completed: 21/02/2022
 
 ---
 
