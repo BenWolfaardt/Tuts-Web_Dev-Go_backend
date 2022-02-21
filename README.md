@@ -17,14 +17,13 @@ This tutorial made use of the following `modules`:
 
 ## Pre-requisites
 
-As well as having had the below pre-requisites:
-
-* A recent version of [Go](https://go.dev/) (I'm using 1.17.2)
-* [git](https://git-scm.com/)
+* A recent version of [Go](https://go.dev/) (I'm using 1.17.7)
+* Understand the basics of Go language
+* Have a general understanding of RESTful API
 
 ## Run The Code Locally
 
-Run the below commands to correctly configure your `go.mod` and `go.sum` files and to run the frontend, **locally**, of your website on your `Go` backend at http://localhost:8080/ (default port).
+Run the below commands to correctly configure your `go.mod` and `go.sum` files and to run the frontend, **locally**, of your website on your `Go` backend at http://localhost:8080/books (default port).
 
 ```sh
   ./start.sh
